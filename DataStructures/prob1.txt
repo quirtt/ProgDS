@@ -1,0 +1,2 @@
+Yes. For example nonlinear data structures like Graphs can be represented
+pursuing a linear organization using algorithms like DFS and BFS.
